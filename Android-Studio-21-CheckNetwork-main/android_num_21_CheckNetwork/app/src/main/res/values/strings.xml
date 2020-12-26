@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">num21_ CheckNetwork</string>
+    <string name="Hw21_title">目前網路</string>
+    <string name="Hw21_check">檢查</string>
+</resources>
